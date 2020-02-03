@@ -14,3 +14,10 @@ Always measure resistors being used since it can affect the final output value.
 
 ## Notes
 Always measure resistors being used since it can affect the final output value.
+
+# 02/03/20
+## Announcements
+- This is week 2 of lab 1. Check the schedule for when your lab report is due
+- Exam 1 on Feb 14th. I'll hold a review sessiong of your are insterested.
+
+## Agenda
